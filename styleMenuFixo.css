@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1da39c;
+  }
+
+  li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+
+  li a:hover {
+        background-color: #2b6851;
+      }    
+  
+header {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    }
+
+section {
+    float: left;
+    padding: 80px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    color: #2b6851;
+}
+
+h1 {
+    text-align: center;
+    color: #b3490b;
+}
